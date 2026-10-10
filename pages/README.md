@@ -1,0 +1,1 @@
+The app uses a single `app.py` entry point with sidebar navigation so shared session state and saved results remain consistent. The phase names map to the requested page structure: Data Setup, Descriptives, Assumptions, Compare Groups, Relationships, and Export.

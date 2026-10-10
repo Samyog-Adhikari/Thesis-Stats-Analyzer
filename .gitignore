@@ -1,0 +1,8 @@
+*.xlsx
+*.csv
+*.xls
+__pycache__/
+.pytest_cache/
+.streamlit/
+results/
+*.pyc
